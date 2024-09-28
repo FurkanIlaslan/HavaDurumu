@@ -1,0 +1,19 @@
+
+.weather-icon{
+    width: 70px;
+    height: 70px;
+}
+
+.card{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.608);
+}
+
+.custom-font{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    border-bottom: 1px solid #333;
+    margin-bottom: 10px;
+}
+
